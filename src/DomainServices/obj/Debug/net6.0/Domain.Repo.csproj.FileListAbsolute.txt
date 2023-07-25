@@ -1,0 +1,15 @@
+D:\VS\PurchaseManagmentApp\src\DomainServices\bin\Debug\net6.0\Domain.Repo.deps.json
+D:\VS\PurchaseManagmentApp\src\DomainServices\bin\Debug\net6.0\Domain.Repo.dll
+D:\VS\PurchaseManagmentApp\src\DomainServices\bin\Debug\net6.0\Domain.Repo.pdb
+D:\VS\PurchaseManagmentApp\src\DomainServices\bin\Debug\net6.0\Domain.Core.dll
+D:\VS\PurchaseManagmentApp\src\DomainServices\bin\Debug\net6.0\Domain.Core.pdb
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\Domain.Repo.csproj.AssemblyReference.cache
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\Domain.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\Domain.Repo.AssemblyInfoInputs.cache
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\Domain.Repo.AssemblyInfo.cs
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\Domain.Repo.csproj.CoreCompileInputs.cache
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\Domain.Repo.csproj.CopyComplete
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\Domain.Repo.dll
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\refint\Domain.Repo.dll
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\Domain.Repo.pdb
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\ref\Domain.Repo.dll

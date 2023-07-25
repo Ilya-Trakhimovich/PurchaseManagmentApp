@@ -1,0 +1,5 @@
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\DomainServices.csproj.AssemblyReference.cache
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\DomainServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\DomainServices.AssemblyInfoInputs.cache
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\DomainServices.AssemblyInfo.cs
+D:\VS\PurchaseManagmentApp\src\DomainServices\obj\Debug\net6.0\DomainServices.csproj.CoreCompileInputs.cache
